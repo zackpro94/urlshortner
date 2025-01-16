@@ -5,7 +5,7 @@ import re
 import time
 
 # Replace with your Telegram bot token
-BOT_TOKEN = "195695625:AAEfkvjChWmXIjmPQfArkh_y3SEN7dXiy_w"
+BOT_TOKEN = "###################"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
